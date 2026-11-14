@@ -1,0 +1,53 @@
+{
+    "course/2026": {
+        "cert_html_view_enabled": true,
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        },
+        "discussions_settings": {
+            "enable_graded_units": false,
+            "enable_in_context": true,
+            "provider_type": "openedx",
+            "unit_level_visibility": true
+        },
+        "display_name": "Asset Test Course",
+        "end": null,
+        "language": "en",
+        "start": "2026-01-01T00:00:00Z",
+        "tabs": [
+            {
+                "course_staff_only": false,
+                "name": "Course",
+                "type": "courseware"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Progress",
+                "type": "progress"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Dates",
+                "type": "dates"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Discussion",
+                "type": "discussion"
+            },
+            {
+                "course_staff_only": false,
+                "is_hidden": true,
+                "name": "Wiki",
+                "type": "wiki"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "textbooks"
+            }
+        ]
+    }
+}

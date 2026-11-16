@@ -184,5 +184,30 @@
             "subs_sub.jpg",
             null
         ]
+    },
+    "export-filename.md": {
+        "contentType": "text/markdown",
+        "content_son": {
+            "category": "asset",
+            "course": "ATC",
+            "name": "different-filename.md",
+            "org": "OpenCraftX",
+            "revision": null,
+            "run": "2026",
+            "tag": "c4x"
+        },
+        "custom_md5": "77947bae210f5a0568720d7d4160aea6",
+        "displayname": "different-filename.md",
+        "filename": "asset-v1:OpenCraftX+ATC+2026+type@asset+block@different-filename.md",
+        "import_path": "export-filename.md",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenCraftX",
+            "ATC",
+            "thumbnail",
+            "different-filename.md",
+            null
+        ]
     }
 }

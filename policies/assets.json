@@ -51,12 +51,14 @@
         "contentType": "image/jpeg",
         "custom_md5": "614f12f57086e155c1fc4c9176b7c774",
         "displayname": "subs/sub.jpg",
-        "locked": false
+        "locked": false,
+        "note": "This entry in the JSON file gets ignored since its key doesn't match the escaped filename subs_sub.jpg, which is used already by another file."
     },
     "subs_sub.jpg": {
         "contentType": "image/jpeg",
         "custom_md5": "614f12f57086e155c1fc4c9176b7c774",
         "displayname": "subs_sub.jpg",
-        "locked": false
+        "locked": false,
+        "note": "This file gets imported but has the wrong contents; it gets overwritten by subs/sub.jpg"
     }
 }

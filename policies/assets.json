@@ -1,206 +1,56 @@
 {
     "Lightcast_Open_Skills_Taxonomy.csv": {
         "contentType": "text/csv",
-        "content_son": {
-            "category": "asset",
-            "course": "ATC",
-            "name": "Lightcast_Open_Skills_Taxonomy.csv",
-            "org": "OpenCraftX",
-            "revision": null,
-            "run": "2026",
-            "tag": "c4x"
-        },
         "custom_md5": "2628886371f21562e557844fecbdbcfb",
         "displayname": "Lightcast Open Skills Taxonomy.csv",
-        "filename": "asset-v1:OpenCraftX+ATC+2026+type@asset+block@Lightcast_Open_Skills_Taxonomy.csv",
-        "import_path": "Lightcast Open Skills Taxonomy.csv",
-        "locked": false,
-        "thumbnail_location": null
+        "locked": false
     },
     "Open_edX_Contentstore_Internals.png": {
         "contentType": "image/png",
-        "content_son": {
-            "category": "asset",
-            "course": "ATC",
-            "name": "Open_edX_Contentstore_Internals.png",
-            "org": "OpenCraftX",
-            "revision": null,
-            "run": "2026",
-            "tag": "c4x"
-        },
         "custom_md5": "6b471fbc7c7a6a6da29f1944d1ffe633",
         "displayname": "Open edX Contentstore Internals.png",
-        "filename": "asset-v1:OpenCraftX+ATC+2026+type@asset+block@Open_edX_Contentstore_Internals.png",
-        "import_path": "Open edX Contentstore Internals.png",
-        "locked": false,
-        "thumbnail_location": [
-            "c4x",
-            "OpenCraftX",
-            "ATC",
-            "thumbnail",
-            "Open_edX_Contentstore_Internals-png.jpg",
-            null
-        ]
+        "locked": false
     },
     "Python_Windows_interpreter_icon_2006_2016_by_Andrew_Clover.svg": {
         "contentType": "image/svg+xml",
-        "content_son": {
-            "category": "asset",
-            "course": "ATC",
-            "name": "Python_Windows_interpreter_icon_2006_2016_by_Andrew_Clover.svg",
-            "org": "OpenCraftX",
-            "revision": null,
-            "run": "2026",
-            "tag": "c4x"
-        },
         "custom_md5": "afc061e82e099e6ba5b9ca60becb5d2b",
         "displayname": "Python_Windows_interpreter_icon_2006\u20132016_by_Andrew_Clover.svg",
-        "filename": "asset-v1:OpenCraftX+ATC+2026+type@asset+block@Python_Windows_interpreter_icon_2006_2016_by_Andrew_Clover.svg",
-        "import_path": "Python_Windows_interpreter_icon_2006\u20132016_by_Andrew_Clover.svg",
-        "locked": false,
-        "thumbnail_location": [
-            "c4x",
-            "OpenCraftX",
-            "ATC",
-            "thumbnail",
-            "Python_Windows_interpreter_icon_2006_2016_by_Andrew_Clover.svg",
-            null
-        ]
+        "locked": false
     },
     "_pecial_S\u03bbmbols___\u043a\u0430\u0440\u0430\u043a\u0442\u0435\u0440s___at___%percent__final.png": {
         "contentType": "image/png",
-        "content_son": {
-            "category": "asset",
-            "course": "ATC",
-            "name": "_pecial_S\u03bbmbols___\u043a\u0430\u0440\u0430\u043a\u0442\u0435\u0440s___at___%percent__final.png",
-            "org": "OpenCraftX",
-            "revision": null,
-            "run": "2026",
-            "tag": "c4x"
-        },
         "custom_md5": "ff3e3c64eb7fd9e3a425831d1b21bf34",
         "displayname": "$pecial S\u03bbmbols & \u043a\u0430\u0440\u0430\u043a\u0442\u0435\u0440s (@at) (%percent)_final.png",
-        "filename": "asset-v1:OpenCraftX+ATC+2026+type@asset+block@_pecial_S\u03bbmbols___\u043a\u0430\u0440\u0430\u043a\u0442\u0435\u0440s___at___%percent__final.png",
-        "import_path": "$pecial S\u03bbmbols & \u043a\u0430\u0440\u0430\u043a\u0442\u0435\u0440s (@at) (%percent)_final.png",
-        "locked": false,
-        "thumbnail_location": [
-            "c4x",
-            "OpenCraftX",
-            "ATC",
-            "thumbnail",
-            "_pecial_S\u03bbmbols___\u043a\u0430\u0440\u0430\u043a\u0442\u0435\u0440s___at___%percent__final-png.jpg",
-            null
-        ]
+        "locked": false
     },
     "contentstore.pdf": {
         "contentType": "application/pdf",
-        "content_son": {
-            "category": "asset",
-            "course": "ATC",
-            "name": "contentstore.pdf",
-            "org": "OpenCraftX",
-            "revision": null,
-            "run": "2026",
-            "tag": "c4x"
-        },
         "custom_md5": "850e013cd1c386c5471d2ae767222972",
         "displayname": "contentstore.pdf",
-        "filename": "asset-v1:OpenCraftX+ATC+2026+type@asset+block@contentstore.pdf",
-        "import_path": "contentstore.pdf",
-        "locked": false,
-        "thumbnail_location": null
+        "locked": false
     },
     "export-filename.md": {
         "contentType": "text/markdown",
-        "content_son": {
-            "category": "asset",
-            "course": "ATC",
-            "name": "different-filename.md",
-            "org": "OpenCraftX",
-            "revision": null,
-            "run": "2026",
-            "tag": "c4x"
-        },
         "custom_md5": "165a45a30f42ff2f656b6f24d3f9b93d",
         "displayname": "different-filename.md",
-        "filename": "asset-v1:OpenCraftX+ATC+2026+type@asset+block@export-filename.md",
-        "import_path": "export-filename.md",
-        "locked": false,
-        "thumbnail_location": null
+        "locked": false
     },
     "library-susan-q-yin-2JIvboGLeho-unsplash.jpg": {
         "contentType": "image/jpeg",
-        "content_son": {
-            "category": "asset",
-            "course": "ATC",
-            "name": "library-susan-q-yin-2JIvboGLeho-unsplash.jpg",
-            "org": "OpenCraftX",
-            "revision": null,
-            "run": "2026",
-            "tag": "c4x"
-        },
         "custom_md5": "c286e54937dcc00ea545a3a8d2797784",
         "displayname": "library-susan-q-yin-2JIvboGLeho-unsplash.jpg",
-        "filename": "asset-v1:OpenCraftX+ATC+2026+type@asset+block@library-susan-q-yin-2JIvboGLeho-unsplash.jpg",
-        "import_path": "library-susan-q-yin-2JIvboGLeho-unsplash.jpg",
-        "locked": false,
-        "thumbnail_location": [
-            "c4x",
-            "OpenCraftX",
-            "ATC",
-            "thumbnail",
-            "library-susan-q-yin-2JIvboGLeho-unsplash.jpg",
-            null
-        ]
+        "locked": false
     },
     "subs/sub.jpg": {
         "contentType": "image/jpeg",
-        "content_son": {
-            "category": "asset",
-            "course": "ATC",
-            "name": "subs__sub.jpg",
-            "org": "OpenCraftX",
-            "revision": null,
-            "run": "2026",
-            "tag": "c4x"
-        },
         "custom_md5": "614f12f57086e155c1fc4c9176b7c774",
         "displayname": "subs/sub.jpg",
-        "filename": "asset-v1:OpenCraftX+ATC+2026+type@asset+block@subs__sub.jpg",
-        "import_path": "subs/sub.jpg",
-        "locked": false,
-        "thumbnail_location": [
-            "c4x",
-            "OpenCraftX",
-            "ATC",
-            "thumbnail",
-            "subs__sub.jpg",
-            null
-        ]
+        "locked": false
     },
     "subs_sub.jpg": {
         "contentType": "image/jpeg",
-        "content_son": {
-            "category": "asset",
-            "course": "ATC",
-            "name": "subs_sub.jpg",
-            "org": "OpenCraftX",
-            "revision": null,
-            "run": "2026",
-            "tag": "c4x"
-        },
         "custom_md5": "614f12f57086e155c1fc4c9176b7c774",
         "displayname": "subs_sub.jpg",
-        "filename": "asset-v1:OpenCraftX+ATC+2026+type@asset+block@subs_sub.jpg",
-        "import_path": "subs/sub.jpg",
-        "locked": false,
-        "thumbnail_location": [
-            "c4x",
-            "OpenCraftX",
-            "ATC",
-            "thumbnail",
-            "subs_sub.jpg",
-            null
-        ]
+        "locked": false
     }
 }

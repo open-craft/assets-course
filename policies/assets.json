@@ -41,6 +41,12 @@
         "displayname": "library-susan-q-yin-2JIvboGLeho-unsplash.jpg",
         "locked": false
     },
+    "subs_in-subfolder.md": {
+        "contentType": "text/markdown",
+        "custom_md5": "2f4b6f071733b82a67e7fa0a0eb3fec6",
+        "displayname": "in-subfolder.md",
+        "locked": false
+    },
     "subs/sub.jpg": {
         "contentType": "image/jpeg",
         "custom_md5": "614f12f57086e155c1fc4c9176b7c774",
